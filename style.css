@@ -1,0 +1,23 @@
+body{
+    background-image: url(src/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#header{
+    background-color: rgba(0, 0, 0, 0.678);
+    margin-top: 20px;
+    border-radius: 8px;
+    border: 1px solid white;
+}
+
+.menu{
+    margin: 0;
+}
